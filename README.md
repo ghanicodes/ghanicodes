@@ -3,7 +3,7 @@
 ### Frontend Developer | React & Supabase Enthusiast | Building Scalable Web Solutions
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Supabase+%7C+Tailwind;Always+learning+new+things;Open+to+collaborations!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Supabase;Always+learning+new+things;Open+to+collaborations!" alt="Typing SVG" />
 </p>
 
 I'm a passionate frontend web developer based in 📍 **Karachi, Pakistan**, crafting elegant solutions to complex problems. Currently focused on building modern web applications with **React**, **Supabase**, and **Tailwind CSS**. I love turning ideas into reality through clean code and intuitive user experiences.
@@ -45,15 +45,15 @@ I enjoy creating seamless user experiences while ensuring robust and maintainabl
 
 ### 🌐 [OLX Clone with Supabase & Admin Panel](#)
 A full-featured e-commerce web application where the admin can add, edit, delete products and manage sliders.  
-- **Tech Stack:** React, Supabase, Tailwind CSS, Bootstrap
+- **Tech Stack:** React, Supabase, Tailwind CSS, Bootstrap  
 
 ### 📱 [PostApp - Realtime Like, Comment & Share](#)
 Social media-like app supporting image/video uploads with realtime interactions.  
-- **Tech Stack:** React, Supabase, Tailwind CSS
+- **Tech Stack:** React, Supabase, Tailwind CSS  
 
 ### 🌟 [Dynamic E-commerce Website with Admin Control](#)
 Admin can fully manage products and sliders with modern UI/UX.  
-- **Tech Stack:** React, Supabase, Tailwind CSS, Bootstrap
+- **Tech Stack:** React, Supabase, Tailwind CSS, Bootstrap  
 
 ---
 
@@ -61,12 +61,12 @@ Admin can fully manage products and sliders with modern UI/UX.
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ghanicodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanicodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanicodes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile">
@@ -87,10 +87,10 @@ Admin can fully manage products and sliders with modern UI/UX.
 
 ## ☕ Fun Facts
 
-- 🎯 I believe in writing clean, maintainable, and scalable code  
-- 🌱 Currently learning new frontend optimizations and Supabase integrations  
-- ⚡ Fun fact: I debug with `console.log()` and coffee ☕  
-- 🎮 Outside coding, I enjoy gaming and exploring new cafes
+- 🎯 I believe in writing code that is **clean, maintainable, and scalable**
+- 🌱 Currently learning **React optimization & Supabase integrations**
+- ⚡ Fun fact: I debug with `console.log()` 😄
+- 🎮 When not coding, I enjoy gaming and exploring new coffee shops
 
 ---
 
