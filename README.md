@@ -1,22 +1,27 @@
 # Hi there, I'm Abdul Ghani 👋
 
-### Frontend Developer | React & Supabase Enthusiast | Building Scalable Web Solutions
+### Full-Stack Web Developer | React, Node.js & Supabase | Building Scalable Web Apps
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Supabase;Always+learning+new+things;Open+to+collaborations!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+Supabase;Frontend+%2B+Backend+Development;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
-I'm a passionate frontend web developer based in 📍 **Karachi, Pakistan**, crafting elegant solutions to complex problems. Currently focused on building modern web applications with **React**, **Supabase**, and **Tailwind CSS**. I love turning ideas into reality through clean code and intuitive user experiences.
+I'm a passionate **Full-Stack Web Developer** based in 📍 **Karachi, Pakistan**, focused on building **modern, scalable, and user-centric web applications**.
 
-When I'm not coding, you'll find me exploring new technologies, contributing to open-source, or sharing knowledge with the dev community.
+I started my journey as a **Frontend Developer** and now I also work on the **Backend**, building complete end-to-end solutions using **React, Node.js, Express, MongoDB, and Supabase**.
+
+I love turning ideas into real products with clean code, solid architecture, and smooth user experience.
 
 ---
 
 ## 🚀 About Me
 
-I'm a dedicated frontend developer with experience in building responsive, scalable web applications from concept to deployment.  
-I specialize in **React.js, Supabase, Tailwind CSS, Bootstrap, JavaScript**, and Git/GitHub for version control.  
-I enjoy creating seamless user experiences while ensuring robust and maintainable code. Always excited to collaborate on innovative projects and contribute to open-source.
+- 💻 Full-Stack Web Developer (Frontend + Backend)
+- 🎨 Strong grip on UI/UX & responsive design
+- ⚙️ Experience with REST APIs, authentication & databases
+- 🔐 Worked with Supabase Auth & backend integrations
+- 🌱 Continuously learning and improving backend & system design
+- 🤝 Open to collaboration, internships & junior roles
 
 ---
 
@@ -30,56 +35,70 @@ I enjoy creating seamless user experiences while ensuring robust and maintainabl
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend / Database
+---
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_APIs-005571?style=flat-square)
+
+---
+
+### 🗄️ Database & Auth
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+---
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 💼 Featured Projects
 
-### 🌐 [OLX Clone with Supabase & Admin Panel](#)
-A full-featured e-commerce web application where the admin can add, edit, delete products and manage sliders.  
-- **Tech Stack:** React, Supabase, Tailwind CSS, Bootstrap  
+### 🌐 OLX Clone (Full-Stack)
+A complete marketplace application with **authentication, product management & cart system**.  
+- **Features:** Admin panel, user-based cart, protected routes  
+- **Tech Stack:** React, Node.js, Express, MongoDB, Supabase  
 
-### 📱 [PostApp - Realtime Like, Comment & Share](#)
-Social media-like app supporting image/video uploads with realtime interactions.  
+---
+
+### 📱 PostApp – Realtime Social App
+Social media app with **likes, comments, shares & media uploads**.  
 - **Tech Stack:** React, Supabase, Tailwind CSS  
 
-### 🌟 [Dynamic E-commerce Website with Admin Control](#)
-Admin can fully manage products and sliders with modern UI/UX.  
-- **Tech Stack:** React, Supabase, Tailwind CSS, Bootstrap  
+---
+
+### 🛒 Dynamic E-Commerce Website
+Admin-controlled e-commerce platform with full CRUD functionality.  
+- **Tech Stack:** React, Node.js, Express, MongoDB  
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ghanicodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanicodes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ghanicodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanicodes&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -87,14 +106,11 @@ Admin can fully manage products and sliders with modern UI/UX.
 
 ## ☕ Fun Facts
 
-- 🎯 I believe in writing code that is **clean, maintainable, and scalable**
-- 🌱 Currently learning **React optimization & Supabase integrations**
-- ⚡ Fun fact: I debug with `console.log()` 😄
-- 🎮 When not coding, I enjoy gaming and exploring new coffee shops
-
----
+- 🎯 Clean, scalable & maintainable code believer  
+- 🌱 Currently improving backend architecture & APIs  
+- ⚡ Debugging tool: `console.log()` 😄  
+- 🎮 Gaming & coffee lover  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghanicodes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ghanicodes?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=ghanicodes&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
