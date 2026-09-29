@@ -165,14 +165,27 @@ Selected Shopify stores I've worked on professionally. These are client/company 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ghanicodes&show_icons=true&hide_border=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ghanicodes&show_icons=true&hide_border=true&theme=default" />
-    <img alt="GitHub stats for ghanicodes" src="https://github-readme-stats.vercel.app/api?username=ghanicodes&show_icons=true&hide_border=true&theme=default" width="400" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg" />
+    <img alt="GitHub profile details for ghanicodes" src="./profile-summary-card-output/github/0-profile-details.svg" width="420" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanicodes&layout=compact&hide_border=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanicodes&layout=compact&hide_border=true&theme=default" />
-    <img alt="Top languages for ghanicodes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanicodes&layout=compact&hide_border=true&theme=default" width="300" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/2-most-commit-language.svg" />
+    <img alt="Most used languages by commit" src="./profile-summary-card-output/github/2-most-commit-language.svg" width="300" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg" />
+    <img alt="GitHub stats for ghanicodes" src="./profile-summary-card-output/github/3-stats.svg" width="420" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/1-repos-per-language.svg" />
+    <img alt="Repositories per language" src="./profile-summary-card-output/github/1-repos-per-language.svg" width="300" />
   </picture>
 </p>
 
@@ -188,21 +201,9 @@ Selected Shopify stores I've worked on professionally. These are client/company 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ghanicodes&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ghanicodes&bg_color=FFFFFF&color=0969DA&line=0969DA&point=1F2328&area=true&area_color=0969DA&hide_border=true" />
-    <img alt="Contribution activity graph for ghanicodes" src="https://github-readme-activity-graph.vercel.app/graph?username=ghanicodes&bg_color=FFFFFF&color=0969DA&line=0969DA&point=1F2328&area=true&area_color=0969DA&hide_border=true" width="100%" />
-  </picture>
-</p>
-
-### GitHub Trophies
-
-Generated automatically from my public GitHub activity.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ghanicodes&theme=onedark&no-frame=true&column=6&row=1&margin-w=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ghanicodes&theme=flat&no-frame=true&column=6&row=1&margin-w=6" />
-    <img alt="GitHub trophies for ghanicodes" src="https://github-profile-trophy.vercel.app/?username=ghanicodes&theme=flat&no-frame=true&column=6&row=1&margin-w=6" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/4-productive-time.svg" />
+    <img alt="Commit activity by time of day" src="./profile-summary-card-output/github/4-productive-time.svg" width="420" />
   </picture>
 </p>
 
@@ -241,5 +242,5 @@ Generated automatically from my public GitHub activity.
   <a href="https://www.linkedin.com/in/abdul-ghani-a645202b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://abdul-ghani-portfolio-frontend.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/ghanicodes"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:abdulghaniag1010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:abdulghaniag0123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
